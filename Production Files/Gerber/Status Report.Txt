@@ -1,0 +1,16 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 22:03:57 On 27.09.2024
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [STLink_V2_Design.PcbDoc]
+   Generated File[STLink_V2_Design.TXT]
+   Generated File[STLink_V2_Design.LDP]
+   Generated File[STLink_V2_Design.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 22:03:58 On 27.09.2024

@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for STLink_V2_Design
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -105,6 +105,107 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BUWGTRLL
 
+[Document5]
+DocumentPath=STLink_V2_Design.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for STLink_V2_Design\Design Rule Check - STLink_V2_Design.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Production Files\Gerber\STLink_V2_Design.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Production Files\Gerber\STLink_V2_Design.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Production Files\Gerber\STLink_V2_Design.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Production Files\Gerber\STLink_V2_Design.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Production Files\Gerber\STLink_V2_Design.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Production Files\Gerber\STLink_V2_Design.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Production Files\Gerber\STLink_V2_Design.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Production Files\Gerber\STLink_V2_Design.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Production Files\Gerber\STLink_V2_Design.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Production Files\Gerber\STLink_V2_Design.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Production Files\Gerber\STLink_V2_Design.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Production Files\Gerber\STLink_V2_Design.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Production Files\Gerber\STLink_V2_Design.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Production Files\Gerber\STLink_V2_Design.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Production Files\Gerber\STLink_V2_Design.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Production Files\Gerber\STLink_V2_Design.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Production Files\Gerber\STLink_V2_Design.REP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Production Files\Gerber\STLink_V2_Design.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Production Files\Gerber\STLink_V2_Design.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Production Files\STLink_V2_Design.xls
+DItemRevisionGUID=
+
 [Parameter1]
 Name=NameProject
 Value=STLink_V2
@@ -118,6 +219,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for STLink_V2_Design
 
 [OutputGroup1]
 Name=Netlist Outputs
